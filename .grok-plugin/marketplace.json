@@ -489,12 +489,12 @@
     },
     {
       "name": "adsgpt",
-      "description": "Official AdsGPT plugin (hosted MCP server + skills). Create, review and optimize Google Ads campaigns: performance reports, wasted spend and negative keywords, budget and status changes, and new campaigns planned in a conversation, approved once and launched paused. Sign in with your AdsGPT account; every change asks for approval.",
+      "description": "Official AdsGPT plugin (hosted MCP server + skills). Create, review and optimize Google Ads campaigns: performance reports, wasted spend and negative keywords, budget, status and targeting changes, and new campaigns created paused from a conversation. Sign in with your AdsGPT account.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/adsgpt-dev/agent-plugins.git",
-        "sha": "2c541343d611f672e9a0efc8739a63e088aa4a5a",
+        "sha": "150a485eb59b9bb4a677589565693a7450a06ea1",
         "path": "plugins/adsgpt"
       },
       "homepage": "https://docs.adsgpt.dev",
